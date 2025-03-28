@@ -17,7 +17,7 @@
 </div>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,androidstudio,github,postman,xd&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,c,dart,flutter,pycharm,vscode,androidstudio,postman,linux,github,matlab&perline=5)](https://skillicons.dev)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahad-Khan-02&show_icons=true&theme=dark)
 
